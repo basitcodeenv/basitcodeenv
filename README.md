@@ -24,7 +24,7 @@ I'm a software engineer. I love coding, learning new technologies, and contribut
 
 ## 📊 My GitHub Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-abdulbasitrana.vercel.app/api?username=basitcodeenv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&locale=en" alt="Abdul Basit Rana's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-abdulbasitrana.vercel.app/api/top-langs/?username=basitcodeenv&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-abdulbasitrana.vercel.app/api?username=basitcodeenv&show_icons=true&theme=buefy&hide_border=true&count_private=true&locale=en" alt="Abdul Basit Rana's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-abdulbasitrana.vercel.app/api/top-langs/?username=basitcodeenv&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## 🤝 Let's Connect!
